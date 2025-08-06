@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+
+.App .thumnail {
+  text-decoration: none;
+  color: black;
+}
+
+.App .title {
+  font-size: 18px;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.App .desc {
+  font-size: 14px;
+}
+
+.App .price {
+  color: brown;
+  font-size: 18px;
+}
