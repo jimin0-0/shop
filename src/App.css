@@ -22,3 +22,9 @@
   color: brown;
   font-size: 18px;
 }
+
+.visual_main {
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 35px;
+}
